@@ -1,0 +1,10 @@
+Jane Doe
+Senior Data Scientist
+
+Skills:
+Python, SQL, Pandas, NumPy, Scikit-learn, Docker, AWS, Git, Linux
+
+Experience:
+- Built machine learning models for customer churn prediction.
+- Deployed REST APIs with FastAPI.
+- Automated ETL pipelines using Airflow.

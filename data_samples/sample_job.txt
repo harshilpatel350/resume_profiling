@@ -1,0 +1,44 @@
+We are hiring for multiple data-focused roles:
+
+Positions: Data Analyst | Data Scientist | Business Analyst | SQL Developer | ML Engineer
+
+Required Skills:
+
+Programming & Tools:
+- Python, R, SQL, Excel, VBA
+- Jupyter Notebook, VS Code, Git
+
+Data Analysis & Visualization:
+- Pandas, NumPy, Matplotlib, Seaborn
+- Tableau, Power BI, Looker
+- Data cleaning, data wrangling, ETL
+
+Databases:
+- MySQL, PostgreSQL, SQLite, MongoDB
+- SQL Server, Oracle, BigQuery
+- Database optimization, query tuning
+
+Machine Learning & AI:
+- Scikit-learn, TensorFlow, PyTorch, Keras
+- NLP, computer vision, deep learning
+- MLOps, model deployment, feature engineering
+
+Statistics & Analytics:
+- Statistics, probability, hypothesis testing
+- A/B testing, regression analysis, forecasting
+- Data modeling, predictive analytics
+
+Cloud & Big Data:
+- AWS, Azure, GCP
+- Spark, Hadoop, Airflow, Databricks
+- Docker, Kubernetes
+
+Business Skills:
+- Business intelligence, KPI reporting
+- Stakeholder communication, presentation skills
+- Agile, Scrum, JIRA
+
+Qualifications:
+- Bachelor's or Master's in Data Science, Statistics, Computer Science, or related field
+- 2+ years of experience in data analysis or related roles
+- Strong problem-solving and analytical thinking

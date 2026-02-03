@@ -46,13 +46,3 @@ Reports generated:
           |   Job Parser      | --> | Report Generator  |
           +-------------------+     +-------------------+
 ```
-
-## Testing
-Run tests from the project root:
-- `python -m unittest resume_profiling.tests.test_sample`
-
-## Future Improvements
-- Add language detection and multilingual skill parsing
-- Add configurable skill taxonomies per domain
-- Introduce embedding-based semantic similarity
-- Add structured output for ATS systems
